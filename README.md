@@ -1,10 +1,5 @@
 # task3-robo-repo
 
-| Name                    | Section | B.N Number   | 
-|-------------------------|---------|--------------|
-| Ahmad Hossam Aldeen     | 1       |            6 |
-| Mustafa Megahed Gamil   | 2       |            31| 
-| Mahmoud Mohammed Mahmoud| 2       |            23| 
 
 ## Task Objectives
 The main target of this project is:
