@@ -1,7 +1,7 @@
-#Robotic Body animations with textures
+# Robotic Body animations with textures
 
 
-## Task Objectives
+## Objectives
 The main target of this project is:
 * Applying three different types of animations to a full-robotic body.
 * Loading different external objects.
